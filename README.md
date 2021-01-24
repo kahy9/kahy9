@@ -1,8 +1,6 @@
 ![kahy's github stats](https://github-readme-stats.vercel.app/api?username=kahy9&theme=cobalt)
-![](https://rishavanand.github.io/static/images/greetings.gif)
 
 #### I'm a Full-Stack Programming Student.
-
 ##### BIO
 - ⚙️ I use daily: `.js`, `.php`, `.html`, `.css`, `.sh`, `.psd`, `.ai`
 - 💬 Ping me about **design**, **branding**, **development**
