@@ -1,4 +1,4 @@
-![kahy's github stats](https://github-readme-stats.vercel.app/api?username=kahy9&theme=cobalt)
+# Hi everyone :wave:
 
 #### I'm a Full-Stack Programming Student.
 ##### BIO
@@ -8,6 +8,7 @@
 - ⚡️ Fun fact: The smallest person
 
 <h2> Github Stats </h2> 
+![kahy's github stats](https://github-readme-stats.vercel.app/api?username=kahy9&theme=cobalt)
 <a href="https://github.com/kahy9/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kahy9&layout=compact&theme=tokyonight" /></a>
 
 <p align="center">
