@@ -7,7 +7,6 @@
 - 📫 Reach me: [twitter.com/kahy_dot_sh](https://twitter.com/kahy_dot_sh)
 - ⚡️ Fun fact: The smallest person
 
-<h2> Github Stats </h2> 
 <h2> My Github Stats </h2> 
 
 [![kahy's github stats](https://github-readme-stats.vercel.app/api?username=kahy9&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
